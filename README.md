@@ -59,5 +59,5 @@ Password:
 Cavidan_2003
 ```
 
-## If you like our project please leave a star ❤
+## Layihəmi bəyəndinizsə, bir ulduz buraxmayı unutmayın) ❤
 
